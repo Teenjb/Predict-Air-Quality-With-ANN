@@ -22,3 +22,6 @@ This project will use several machine learning ANNs to predict the AQI. The algo
 - ResNet
 - VGGNet
 - AlexNet
+
+## Output
+The output of the model is continues value of AQI. The output will be the predicted AQI. The predicted AQI will be compared with the actual AQI. The accuracy of the model will be calculated using the mean squared error and mean average error.
